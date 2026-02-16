@@ -1,6 +1,7 @@
 <div align="center">
   <h3>Mourad Latoundji</h3>
-  <p><strong>Ingénieur IA &amp; Machine Learning</strong> — vision, NLP, robotique/embarqué, industrialisation (MLOps)</p>
+  <p><strong>Ingénieur IA &amp; Machine Learning</strong></p>
+  <p>Deep Learning - Data science - Computer Vision - NLP/Transformers - Robotique/embarqué - MLOps</p>
 
   <p>
     <a href="https://mouradlatoundji.com/">
@@ -24,7 +25,7 @@
 ### Bio
 Je développe des solutions IA de bout en bout, de la donnée au modèle, et je les intègre dans des systèmes robustes (vision, NLP, robotique/embarqué).
 
-### Stack & outils (badges)
+### Stack & outils
 <div>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
