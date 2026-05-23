@@ -16,9 +16,6 @@
     <a href="tel:+33752523467">
       <img alt="Téléphone" src="https://img.shields.io/badge/T%C3%A9l-+33%207%2052%2052%2034%2067-111827?style=for-the-badge&logo=googlemessages&logoColor=white" />
     </a>
-    <a href="https://github.com/mlatoundji">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-mlatoundji-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
   </p>
 </div>
 
